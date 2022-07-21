@@ -46,7 +46,7 @@ def advance(driver, by, val, isButton):
             break # we either found the element or we are done
         except:
             counter+=1
-            if counter == 100 and isButton >= 4:
+            if counter == 300 and isButton >= 4:
                 raise Exception("could not find the element")
             pass
 

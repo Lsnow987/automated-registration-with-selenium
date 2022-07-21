@@ -1,6 +1,8 @@
 #include<stdlib.h>
 
 int main() {
-  system("python automatic_registration.py");
+  // replace with your own file path to where the python file is located
+  char* path = "python C:/Users/ysnow/OneDrive/Desktop/registration/automatic_registration.py";
+  system(path);
   return 0;
 }
