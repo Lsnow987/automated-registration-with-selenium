@@ -5,4 +5,6 @@ The program allows you to register the firsts second you are able to, so you wil
 In order to run this program you must download the exe file and run it. The exe was made by using pyinstaller.
 
 If you would like to edit the file and then run it the directions are as follows:
-In order to run this program you must download the .c file and .py file. Then you have to replace the path in the c file with wherever you have the python file stored on your system. Then when you run the .c file you will get a .exe file that you can run anywhere on your system. You have all the python dependencies installed to run the .c file.
+In order to run this program you must download the .c file and .py file. Then you have to replace the path in the c file with wherever you have the python file stored on your system. Then when you run the .c file you will get a .exe file that you can run anywhere on your system. You must have all the python dependencies installed to run the .c file.
+
+Alternatively, you can use pyinstaller to make a new.exe file to run the new version of the code
